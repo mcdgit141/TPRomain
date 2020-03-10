@@ -1,4 +1,4 @@
-package exohelloworld;
+package javaFondamentaux.helloworld;
 
 class HelloWorld {
 
